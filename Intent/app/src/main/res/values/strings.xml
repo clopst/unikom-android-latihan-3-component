@@ -6,4 +6,13 @@
     <string name="title">Project Intent Implicit dan Explicit</string>
     <string name="title_second">Second Page dengan Intent Biasa</string>
     <string name="title_data">Data Received</string>
+    <string name="title_dial">Kontak Langsung</string>
+    <string name="title_app">Buka Aplikasi Lain</string>
+    <string name="add_data">Tambah Data</string>
+    <string name="result">Result dari Tambah Data</string>
+
+    <string name="gender">Jenis Kelamin</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="save">Simpan</string>
 </resources>
