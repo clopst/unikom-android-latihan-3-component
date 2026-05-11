@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">PahlawanIndonesia</string>
+    <string name="name">Nama Pahlawan</string>
+    <string name="description">Deskripsi Pahlawan</string>
+
+    <string-array name="data_name">
+        <item>Ahmad Dahlan</item>
+        <item>R.A. Kartini</item>
+        <item>Soekarno</item>
+        <item>Mohammad Hatta</item>
+        <item>Jenderal Sudirman</item>
+        <item>Cut Nyak Dien</item>
+        <item>Ki Hajar Dewantara</item>
+        <item>Pangeran Diponegoro</item>
+        <item>Tuanku Imam Bonjol</item>
+        <item>Bung Tomo</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Ahmad Dahlan adalah tokoh pembaharu Islam dan pendiri Muhammadiyah. Ia berperan besar dalam memajukan pendidikan, dakwah, dan pelayanan sosial di Indonesia.</item>
+        <item>R.A. Kartini dikenal sebagai pelopor emansipasi perempuan Indonesia. Gagasannya tentang pendidikan dan kesetaraan perempuan tertuang dalam surat-surat yang kemudian dibukukan.</item>
+        <item>Soekarno adalah proklamator kemerdekaan Indonesia dan presiden pertama Republik Indonesia. Ia berperan penting dalam perjuangan kemerdekaan serta perumusan dasar negara.</item>
+        <item>Mohammad Hatta adalah proklamator kemerdekaan Indonesia dan wakil presiden pertama Republik Indonesia. Ia juga dikenal sebagai tokoh koperasi dan pemikir ekonomi kerakyatan.</item>
+        <item>Jenderal Sudirman adalah panglima besar Tentara Nasional Indonesia. Ia memimpin perang gerilya melawan penjajah meskipun sedang dalam kondisi sakit.</item>
+        <item>Cut Nyak Dien adalah pahlawan nasional dari Aceh yang memimpin perlawanan terhadap penjajahan Belanda. Ia dikenal karena keberanian dan keteguhannya dalam mempertahankan tanah air.</item>
+        <item>Ki Hajar Dewantara adalah tokoh pendidikan nasional dan pendiri Taman Siswa. Pemikirannya menjadi dasar penting dalam perkembangan pendidikan Indonesia.</item>
+        <item>Pangeran Diponegoro adalah pemimpin Perang Jawa melawan penjajahan Belanda pada tahun 1825 sampai 1830. Perjuangannya menjadi simbol perlawanan rakyat terhadap kolonialisme.</item>
+        <item>Tuanku Imam Bonjol adalah pemimpin Perang Padri di Sumatra Barat. Ia berjuang melawan kekuasaan kolonial Belanda dan mempertahankan nilai-nilai masyarakat Minangkabau.</item>
+        <item>Bung Tomo adalah tokoh perjuangan dalam Pertempuran Surabaya 10 November 1945. Pidatonya membangkitkan semangat rakyat Surabaya untuk melawan pasukan Sekutu.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ra_kartini</item>
+        <item>@drawable/soekarno</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/jenderal_sudirman</item>
+        <item>@drawable/cut_nyak_dien</item>
+        <item>@drawable/ki_hajar_dewantara</item>
+        <item>@drawable/pangeran_diponegoro</item>
+        <item>@drawable/tuanku_imam_bonjol</item>
+        <item>@drawable/bung_tomo</item>
+    </integer-array>
+</resources>
